@@ -3127,11 +3127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\gabrielenzo\\PAM\\ApiLibertadoresHAS\\ApiLibertadoresHAS.csproj",
+      "projectUniqueName": "D:\\gabrielenzo\\PAM\\Aula04\\ApiLibertadoresHAS\\ApiLibertadoresHAS.csproj",
       "projectName": "ApiLibertadoresHAS",
-      "projectPath": "D:\\gabrielenzo\\PAM\\ApiLibertadoresHAS\\ApiLibertadoresHAS.csproj",
+      "projectPath": "D:\\gabrielenzo\\PAM\\Aula04\\ApiLibertadoresHAS\\ApiLibertadoresHAS.csproj",
       "packagesPath": "D:\\NUGET_PACKAGES",
-      "outputPath": "D:\\gabrielenzo\\PAM\\ApiLibertadoresHAS\\obj\\",
+      "outputPath": "D:\\gabrielenzo\\PAM\\Aula04\\ApiLibertadoresHAS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
